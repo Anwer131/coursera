@@ -1,0 +1,59 @@
+
+.row {
+    width: 100%;
+}
+
+.heading {
+    background-color: rgb(165, 163, 42);
+    width: 20%;
+    padding: 1%;
+    text-align: center;
+    position: relative;
+    left: 78%;
+    top: -6%;
+    border:2px solid black ;
+}
+    
+.col {
+    background-color: aqua;
+    float: left;
+    border: 2px solid black;
+    margin: 5px;
+    padding: 5px;
+    height: 350px;
+  
+    font-size: 75%;
+    position: relative;
+}
+
+
+@media (min-width: 992px) {
+    .col {
+        width: 30%;
+    }
+    
+
+}
+
+@media (min-width: 768px) and (max-width: 991px) {
+    .col {
+        width: 45%;
+    }
+    .col3 {
+        width: 93%;
+    }
+    
+}
+
+@media (max-width: 767px) {
+    width: 100%;
+
+}
+h1 {
+    text-align: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.cont {
+    position: relative;
+    top : -10%;
+}
