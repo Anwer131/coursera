@@ -7,18 +7,19 @@ body {
     background-color: gray;
     border-radius: 0;
     border: 0;
+    height: 80px;
 }
 .navbar-brand a {
     font-size: 2em;
     margin-top: 0;
     color: black;
-    font-weight: 300;
 }
 .navbar-brand a:hover {
     text-decoration: none;
 }
-#nav-list a {
+h1 {
     color: black;
+    margin-top: 0px;
 
 }
 #item {
