@@ -12,6 +12,7 @@ body {
     font-size: 2em;
     margin-top: 0;
     color: black;
+    font-weight: 300;
 }
 .navbar-brand a:hover {
     text-decoration: none;
