@@ -7,20 +7,23 @@ body {
     background-color: gray;
     border-radius: 0;
     border: 0;
-    height: 80px;
 }
-.navbar-brand a {
+.navbar-brand a h1 {
     font-size: 2em;
-    margin-top: 0;
+    margin-top: -10px;
     color: black;
+    float: left;
+    
 }
 .navbar-brand a:hover {
     text-decoration: none;
 }
-h1 {
+#nav-list a {
     color: black;
-    margin-top: 0px;
 
+}
+#nav-list a:hover {
+    background-color: white;
 }
 #item {
     color: black;
