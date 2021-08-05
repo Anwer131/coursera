@@ -8,9 +8,11 @@
     width: 20%;
     padding: 1%;
     text-align: center;
-    position: relative;
+    /* position: relative;
     left: 78%;
-    top: -6%;
+    top: -6%; */
+    position: absolute;
+    top: 0%;
     border:2px solid black ;
 }
     

@@ -1,0 +1,32 @@
+body {
+    font-size: 1.5em;
+    color: black;
+    font-weight: 200;
+}
+#header-nav {
+    background-color: gray;
+    border-radius: 0;
+    border: 0;
+}
+.navbar-brand a {
+    font-size: 2em;
+    margin-top: 0;
+    color: black;
+}
+.navbar-brand a:hover {
+    text-decoration: none;
+}
+#nav-list a {
+    color: black;
+
+}
+#item {
+    color: black;
+}
+#menu-item1, #menu-item2, #menu-item3 {
+    background-color: gray;
+    margin: 20px 0 0;
+}
+h2 {
+    margin-bottom: 30px;
+}
